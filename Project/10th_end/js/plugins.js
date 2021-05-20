@@ -3,5 +3,7 @@
 var $plugins =
 [
 {"name":"Community_Basic","status":true,"description":"Basic plugin for manipulating important parameters.","parameters":{"cacheLimit":"20","screenWidth":"816","screenHeight":"624","changeWindowWidthTo":"","changeWindowHeightTo":"","renderingMode":"auto","alwaysDash":"off"}},
-{"name":"MadeWithMv","status":false,"description":"Show a Splash Screen \"Made with MV\" and/or a Custom Splash Screen before going to main screen.","parameters":{"Show Made With MV":"true","Made with MV Image":"MadeWithMv","Show Custom Splash":"false","Custom Image":"","Fade Out Time":"120","Fade In Time":"120","Wait Time":"160"}}
+{"name":"MadeWithMv","status":false,"description":"Show a Splash Screen \"Made with MV\" and/or a Custom Splash Screen before going to main screen.","parameters":{"Show Made With MV":"true","Made with MV Image":"MadeWithMv","Show Custom Splash":"false","Custom Image":"","Fade Out Time":"120","Fade In Time":"120","Wait Time":"160"}},
+{"name":"SlotMachine","status":true,"description":"Slot Machine scene","parameters":{"Variable ID":"11","Help Text":"カーソルキーの上でベット、カーソルキーの下でスタート","Won Text":"恭喜你！ 赢得了Win Coin枚硬币！","Lost Text":"很遗憾...","Replay Text":"再来一次吗？","CoinFull Text":"硬币数量到达上限！","Bet Text":"赌","Spin Text":"旋转","Yes Text":"Yes","No Text":"No"}},
+{"name":"TouchUI","status":true,"description":"Change the UI for the touch operation.","parameters":{"Menu Command Text":"メニュー","Previous Command Text":"前","Next Command Text":"次"}}
 ];
