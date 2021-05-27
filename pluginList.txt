@@ -1,0 +1,16 @@
+MV Message Styles
+MV Visual Novel Choices
+MV Cam Control
+MV Quest Log
+MV Fishing Mini Game
+MV Invader Mini Game
+
+-- to be considered
+MV Disable Mouse Clicks
+MV Visibility Range
+MV Timed Message Popups
+MV Tools
+MV Simple Crops
+
+-- for muti choices
+MV Message Sound Effects
