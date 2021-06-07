@@ -487,7 +487,7 @@ siakoMobi._getJSName   = document.currentScript.src.substring( siakoMobi._lastIn
     //================================================================================== 
 	Game_Interpreter.prototype.pluginCommand = function(command, args){
 		
-		SM.Gems.structs.Game_Interpreter.pluginCommand.call(this, arguments);
+		SM.Gems.structs.Game_Interpreter.pluginCommand.call(this, command, args);
 
 		switch( command ){
 			case 'MiniGameDiceTreasure':
