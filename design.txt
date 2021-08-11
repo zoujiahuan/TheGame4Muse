@@ -7,6 +7,7 @@ cody and may
 时间线： 医院 =》 梦境 =》 大海 =》 都市 =》 末日
 叙事： cody = c || may = m
 末日c =》 医院m =》 都市c =》 梦境m =》 大海c =》 大海m =》 梦境c  =》 都市m =》 医院c =》 末日m
+悲观->乐观
 
 # 场景：
 末日（熔岩洞 + 绿洲）(world map > allemanthela dock > ancient crater entrance  +   )
